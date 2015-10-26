@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context="com.craftybyte.products.android.quicktextfree.Activity2$PlaceholderFragment">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/qtImage2"
+        android:minHeight="500dp"
+        android:maxHeight="500dp"
+        />
+
+    <Button
+        android:id="@+id/qtSaveButton"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/SaveSD"
+        android:textAlignment="center"
+        android:background="#f9f9f9"
+        android:textColor="#ffb0b3ff"
+        android:textSize="20sp"/>
+
+</LinearLayout>

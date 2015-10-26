@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="qtTitleText">Quick Text</string>
+    <string name="choosePhoto">Choose Photo</string>
+    <string name="enter">Enter text to add to the image</string>
+    <string name="generate">Generate Image</string>
+    <string name="pop_title">Choose Action</string>
+    <string name="title_activity_activity2">Quick Text</string>
+    <string name="SaveSD">Save to SD Card</string>
+
+</resources>
